@@ -22,3 +22,23 @@ To run this project, install the following dependencies:
 
 ```bash
 pip install numpy pandas matplotlib scikit-learn tensorflow keras
+```
+## How to Use
+1. Clone this repository:
+
+```bash
+git clone https://github.com/yourusername/ann-churn-prediction.git
+```
+
+2. Run the notebook cells sequentially to:
+- Import necessary libraries.
+- Load and preprocess the dataset.
+- Build, train, and evaluate the ANN model.
+
+## Results
+- The model achieves significant accuracy in predicting customer churn.
+- Visualizations include accuracy and loss curves during training.
+- Confusion matrix and classification report provide detailed evaluation.
+
+
+
