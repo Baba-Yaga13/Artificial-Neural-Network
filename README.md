@@ -27,7 +27,7 @@ pip install numpy pandas matplotlib scikit-learn tensorflow keras
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/yourusername/ann-churn-prediction.git
+git clone https://github.com/yourusername/Artificial-Neural-Network
 ```
 
 2. Run the notebook cells sequentially to:
